@@ -5,6 +5,22 @@ Dieses Bash-Skript automatisiert die Initialisierung eines Django-Projekts mit e
 
 ---
 
+## 🛠 Script Berechtigung
+
+Bevor man das `setup.sh` script ausführen kann, muss man die korrekten Berechtigungen setzen:
+
+```bash
+chmod +x setup.sh
+```
+
+Dadurch wird das Script ausführbar. Das Script wird ausgeführt durch:
+
+```bash
+./setup.sh
+```
+
+---
+
 ## 📁 Projektstruktur
 
 Nach Ausführung des Skripts ergibt sich folgende Struktur:
