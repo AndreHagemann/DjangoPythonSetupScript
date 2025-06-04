@@ -97,6 +97,9 @@ After running the script, the following structure is generated:
 
 ## ⚙️ Configuration
 
+### jazzmin
+be sure to set the jazzmin entry in settings.py above django.contrib.admin
+
 ### `.env`
 
 The `.env` file contains:
